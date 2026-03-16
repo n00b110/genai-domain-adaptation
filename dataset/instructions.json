@@ -1,0 +1,7 @@
+[
+  {
+    "instruction": "Explain deadlock in operating systems",
+    "input": "",
+    "output": "Deadlock occurs when multiple processes wait indefinitely for resources held by each other."
+  }
+]

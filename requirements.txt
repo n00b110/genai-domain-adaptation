@@ -1,0 +1,9 @@
+transformers
+datasets
+peft
+accelerate
+torch
+fastapi
+uvicorn
+streamlit
+sentencepiece
