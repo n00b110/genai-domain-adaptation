@@ -69,7 +69,7 @@ After applying domain adaptation:
 - Backend integration using FastAPI  
 - Evaluation of adapted model  
 
-### Team Member (50%)
+### Immanuel Olaoye (50%)
 - Streamlit UI development  
 - System testing and debugging  
 - Prompt refinement  
